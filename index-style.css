@@ -1,8 +1,9 @@
-.title{
+#title{
     text-align: center;
     color: white;
     font-size: 48px;
     font-family: Arial;
+    margin-top: -50px;
 }
 
 #search{
